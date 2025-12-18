@@ -1,0 +1,3 @@
+# requirements for security-job-scraper
+requests
+beautifulsoup4
