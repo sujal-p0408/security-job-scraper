@@ -10,7 +10,7 @@ This project started as a simple question:
 
 To answer that, I built an ethical web scraping system that extracts security-related job data from **Greenhouse-hosted career pages**, while intentionally studying how modern websites render content and defend themselves against automation.
 
-The goal of this project is **not large-scale scraping** — it is understanding **how the web actually works**.
+The goal of this project is **not large-scale scraping** it is understanding **how the web actually works**.
 
 ---
 
@@ -124,40 +124,10 @@ Understanding defenses is more valuable than defeating them.
 
 ---
 
-## Inspiration
-
-This work is inspired by automation-first startups like **Yutori**, which explore how autonomous agents interact with modern web interfaces.
-
-From a security perspective, this raises important questions:
-
-- How do websites distinguish humans from agents?  
-- How should defenses evolve as agents become more capable?  
-
-This project explores those questions from a **defensive and ethical lens**.
-
----
-
-## Future Work
-
-Possible extensions include:
-
-- Automatically detecting DOM layout changes  
-- Comparing multiple companies over time  
-- Modeling scraper behavior as an autonomous browser agent  
-- Deeper analysis of bot-detection signals  
-
----
-
-## Disclaimer
-
-This project is intended **strictly for educational and research purposes**.  
-It does not collect personal data, bypass authentication, or attempt to defeat security mechanisms.
-
----
 
 ## Final Thoughts
 
-This project helped me understand that web scraping isn’t just about extracting data —  
+This project helped me understand that web scraping isn’t just about extracting data but  
 it’s about **how systems communicate, defend themselves, and evolve**.
 
 That perspective is what makes the problem interesting.
